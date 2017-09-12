@@ -21,8 +21,8 @@ body {
   z-index: 10;
   background-color: #777;
   opacity:0.9;
-  right:0;
   left:0;
+  right:0;
   width:100%;
 }
 
