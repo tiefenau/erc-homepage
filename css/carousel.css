@@ -50,6 +50,7 @@ body {
 }
 .marketing h2 {
   font-weight: normal;
+  margin-top:20px;
 }
 .marketing .col-lg-4 p {
   margin-right: .75rem;
@@ -88,8 +89,13 @@ body {
   }
 }
 
-@media (min-width: 62em) {
+.teamlink {
+   color:#5a5a5a;
+   text-decoration: none;
+}
+
+/*@media (min-width: 62em) {
   .featurette-heading {
     margin-top: 7rem;
   }
-}
+}*/
